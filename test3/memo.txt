@@ -2,3 +2,5 @@ dcoker study
 https://tech.plaid.co.jp/tutorial-for-docker-beginners/
 docker for ubuntu
 https://qiita.com/naoki85/items/9fde4c5fd5aa5eb61eff
+
+https://python.ms/object/class/method/#メソッドの仕組み
